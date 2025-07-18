@@ -48,7 +48,4 @@ PyInstaller (EXE build)
 
 📜 License: MIT 
 
-<div align="center">
-  <img src="https://github.com/Dudleylua/SocialRecon/raw/main/Screenshot%202025-07-19%20001631.png" width="800" alt="SocialRecon Interface">
-  <p><em>Демонстрация работы SocialRecon</em></p>
-</div>
+![alt text](https://github.com/Dudleylua/SocialRecon-/blob/main/Screenshot 2025-07-19 001631.png)
