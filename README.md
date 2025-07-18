@@ -48,4 +48,4 @@ PyInstaller (EXE build)
 
 📜 License: MIT 
 
-![files](https://github.com/Dudleylua/SocialRecon/raw/main/Screenshot2025-07-19 001631.png)
+![files](https://github.com/Dudleylua/SocialRecon/raw/main/Screenshot2025-07-19001631.png)
