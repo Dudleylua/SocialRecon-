@@ -30,7 +30,7 @@ Windows: Download ready SocialRecon.exe from Releases
 Linux/macOS:
 
 bash
-git clone https://github.com/your-repo/SocialRecon.git
+git clone https://github.com/Dudleylua/SocialRecon.git
 cd SocialRecon
 python3 -m venv venv
 source venv/bin/activate
@@ -82,7 +82,7 @@ Windows: Скачайте готовый SocialRecon.exe из раздела Rel
 Linux/macOS:
 
 bash
-git clone https://github.com/ваш-репозиторий/SocialRecon.git
+git clone https://github.com/Dudleylua/SocialRecon.git
 cd SocialRecon
 python3 -m venv venv
 source venv/bin/activate
